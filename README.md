@@ -1,4 +1,4 @@
-(![image](https://github.com/user-attachments/assets/3520c78a-cefd-470d-938b-5879d3600d70)
+![image](https://github.com/user-attachments/assets/3520c78a-cefd-470d-938b-5879d3600d70)
 
 
 ChessDB Project
